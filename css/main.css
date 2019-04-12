@@ -526,7 +526,7 @@ section .wrap-item .item:hover {
 	margin: auto;
 	width: 240px;
 	height: 480px;
-	background-image:url(asset/iphone-mockup.svg);
+	background-image:url(asset/iphone-mockup.png);
 	background-position: center;
 	background-repeat: no-repeat;
 }
@@ -580,8 +580,8 @@ section .wrap-item .item:hover {
 }
 .swiper-button-next:before { content: '下一步'; }
 .swiper-button-prev:before { content: '上一步'; }
-.swiper-button-next { background-image: url(asset/icon-arrow-r.svg); }
-.swiper-button-prev { background-image: url(asset/icon-arrow-l.svg); }
+.swiper-button-next { background-image: url(asset/icon-arrow-r.png); }
+.swiper-button-prev { background-image: url(asset/icon-arrow-l.png); }
 
 
 /* ---------------------------------------------------------------------
@@ -927,7 +927,7 @@ ul.list-la {
 	margin-left: 10px;
 	width: 13px;
 	height: 13px;
-	background-image: url(asset/icon-more.svg);
+	background-image: url(asset/icon-more.png);
 	background-position: center;
 	background-repeat: no-repeat;
 }
@@ -940,9 +940,9 @@ ul.list-la {
 	background-color: rgb(139, 177, 0);
 	border-color:  rgb(139, 177, 0);
 }
-.open .btn-more:after { background-image: url(asset/icon-less.svg); }
-.btn-more:hover:after { background-image: url(asset/icon-more-w.svg); }
-.open .btn-more:hover:after { background-image: url(asset/icon-less-w.svg); }
+.open .btn-more:after { background-image: url(asset/icon-less.png); }
+.btn-more:hover:after { background-image: url(asset/icon-more-w.png); }
+.open .btn-more:hover:after { background-image: url(asset/icon-less-w.png); }
 
 
 .tal-c { text-align: center; }
